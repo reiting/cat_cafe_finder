@@ -30,3 +30,4 @@ hours
 directions
 menu
 Find (free) API that displays town from lat and long
+Make it so that if user doesn't have a cat cafe in their search radius, it tells them there isn't one in that radius, but the closest one to them is ******\_\_\_******.

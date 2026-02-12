@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Marker, Popup, useMap } from "react-leaflet";
+import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 
 export function LocationMarker() {
@@ -8,7 +9,6 @@ export function LocationMarker() {
   const map = useMap();
 
   useEffect(() => {
-    console.log("maptile.jsx");
     if (!navigator.geolocation) {
       // eslint-disable-next-line react-hooks/set-state-in-effect
       setError("Geolocation is not supported by your browser");
@@ -20,6 +20,7 @@ export function LocationMarker() {
         const newPosition = [latitude, longitude];
         setPosition(newPosition);
         map.flyTo(newPosition, 13);
+        // L.marker([latitude + 5, longitude + 5]).addTo(map);
       },
       (err) => {
         setError(err.message);
