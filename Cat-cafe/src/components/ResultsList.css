@@ -1,0 +1,26 @@
+.results {
+  position: absolute;
+  z-index: 1000;
+}
+
+.single-cafe {
+  background-color: #00000080;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  list-style-type: none;
+  display: grid;
+  width: 100%;
+  place-items: center;
+  height: 75px;
+  margin-bottom: 1em;
+}
+
+.btn {
+  background-color: green;
+}
+
+.no-results {
+  width: 50%;
+  margin: 0 auto;
+  background-color: black;
+}

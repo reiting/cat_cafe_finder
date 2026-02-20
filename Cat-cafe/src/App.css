@@ -40,3 +40,25 @@
 .read-the-docs {
   color: #888;
 }
+
+.distance-selector {
+  font-size: 18px;
+  padding: 8px;
+  width: 200px;
+  top: 0;
+  left: 0;
+}
+
+button {
+  background-color: green;
+  margin: 1em;
+}
+
+.distance-container {
+  position: relative;
+}
+
+.select-options {
+  margin: 1em;
+  width: 7em;
+}

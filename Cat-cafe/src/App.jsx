@@ -6,40 +6,64 @@ import { LocationMarker } from "./components/MapTile";
 
 function App() {
   const [permission, setPermission] = useState(false);
+  const [radius, setRadius] = useState(500);
 
   const handleClick = () => {
     setPermission(true);
   };
 
+  const handleDropDownChange = (e) => {
+    setRadius(e.target.value);
+  };
+
   const defaultCenter = [39.5, -98.35];
 
-  const options = [500, 1000, 1500, 2000, 2500, 3000, 3500, 4000, 4500, 5000];
+  const milesToMeters = (miles) => miles * 1609.34; // The conversion factor
+
+  const distancesInMiles = [20, 30, 40, 50, 60, 70, 80, 90, 100];
+
+  const distancesArray = distancesInMiles.map((miles) => {
+    return {
+      value: miles,
+      key: milesToMeters(miles),
+    };
+  });
 
   return (
     <div>
-      <button onClick={handleClick}>Show Stores</button>
-      {permission ? (
+      <h1>Find your closest cat cafe!</h1>
+      <div className="distance-container">
+        <label className="distance-selector">
+          Select Miles:
+          <select
+            name="distance"
+            className="select-options"
+            onChange={handleDropDownChange}
+          >
+            {distancesArray.map((option) => (
+              <option key={option.key}>{option.value}</option>
+            ))}
+          </select>
+        </label>
+      </div>
+
+      <button onClick={handleClick}>Show Cafes</button>
+
+      {permission && (
         <>
           <MapContainer
             center={defaultCenter}
             zoom={4}
             scrollWheelZoom={false}
-            style={{ height: "100vh", width: "100%" }}
+            style={{ height: "100vh", width: "100vw" }}
           >
             <TileLayer
               attribution='&copy; <a href="https://www.openstreetmap.org">OpenStreetMap</a> contributers'
               url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
             />
-            <LocationMarker />
+            <LocationMarker radius={radius} />
           </MapContainer>
-          <select>
-            {options.map((option) => (
-              <option key={option}>{option}</option>
-            ))}
-          </select>
         </>
-      ) : (
-        <div></div>
       )}
     </div>
   );

@@ -30,4 +30,26 @@ hours
 directions
 menu
 Find (free) API that displays town from lat and long
-Make it so that if user doesn't have a cat cafe in their search radius, it tells them there isn't one in that radius, but the closest one to them is ******\_\_\_******.
+Make it so that if user doesn't have a cat cafe in their search radius, it tells them there isn't one in that radius, but the closest one to them is **\*\***\_\_\_**\*\***.
+
+Create circle for radius
+filter through locations to find ones within the radius (set by user)
+create a map marker for those guys
+render on map
+
+Show if there were any results
+If there were, click on it and have map fly to it
+
+Style the results list
+translate meters to miles (in dropdown)
+deploy it
+fix the blue cloud on the map tile when it first loads
+
+Potential future improvements:
+Interact with an api to get on the fly to get cafe data
+Allow for user input instead of drop-down
+*Add input validations
+Add user accounts
+*Allow user to review cafes
+*Allow user to upload pictures of cats and cafes
+*Allow cafe owners to verify pictures of cats and cafes before upload

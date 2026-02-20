@@ -1,0 +1,1419 @@
+[
+  {
+    "name": "Wired Whisker",
+    "details": [
+      "1823 E Superior Street, Duluth, MN, 55812",
+      "Duluth, MN, United States, 55812"
+    ],
+    "formatted_address": "1823 E Superior Street, Duluth, MN, 55812 Duluth, MN, 55812, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Kitty Kisses Cat Cafe",
+    "details": [
+      "8555 Double R Blvd, #104",
+      "Reno, NV, United States, 89511",
+      "Kitty Kisses Cat Lounge features a mix of permanent resident cats for guests to bond with long-term, along with adoptable cats and kittens from a partnered local rescue, offering a unique opportunity to meet potential pets in a cozy setting."
+    ],
+    "formatted_address": "8555 Double R Blvd, #104 Reno, NV, 89511, United States",
+    "lat": "39.4607895",
+    "lon": "-119.7643319"
+  },
+  {
+    "name": "Planet Purrrk Club",
+    "details": ["100 CITY CTR, Ste. C", "Oshkosh, WI, United States, 54901"],
+    "formatted_address": "100 CITY CTR, Ste. C Oshkosh, WI, 54901, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Catelowna",
+    "details": [
+      "1441 Ellis Street, Suite 201",
+      "Kelowna , BC, Canada, V1Y 2A3"
+    ],
+    "formatted_address": "1441 Ellis Street, Suite 201 Kelowna, BC, V1Y 2A3, Canada",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Mr. Kitty's Cat Cafe & Boutique",
+    "details": [
+      "502 S. Farwell St.",
+      "Eau Claire, WI, United States, 54701",
+      "Mr. Kitty's Cat Caf\u00e9 and Boutique offers a warm and inviting space to relax with friendly cats. Partnered with the Eau Claire Humane Association, this cozy caf\u00e9, lounge, and boutique provides a dedicated cat lounge where visitors can meet sweet, playful cats. With a streamlined adoption process and supportive staff, finding your new furry friend is both enjoyable and effortless."
+    ],
+    "formatted_address": "502 S. Farwell St. Eau Claire, WI, 54701, United States",
+    "lat": "44.8096304",
+    "lon": "-91.4970730"
+  },
+  {
+    "name": "Aristocat Cafe",
+    "details": [
+      "111 N Liberty St.",
+      "Harrisonburg, VA, United States, 22802",
+      "Aristocat Caf\u00e9 is a modern cat caf\u00e9 and tea house, inviting guests to relax with premium teas, espresso, and an array of community-sourced and house-made snacks. In the spacious Cat Lounge, visitors can meet adoptable cats from the caf\u00e9\u2019s rescue partner, lounging comfortably and ready to find their forever homes."
+    ],
+    "formatted_address": "111 N Liberty St. Harrisonburg, VA, 22802, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Rescued Treasures Cat Caf\u00e9",
+    "details": [
+      "4155 N Rancho Dr., #150",
+      "Las Vegas, NV, United States, 89130"
+    ],
+    "formatted_address": "4155 N Rancho Dr., #150 Las Vegas, NV, 89130, United States",
+    "lat": "36.2353168",
+    "lon": "-115.2305221"
+  },
+  {
+    "name": "Mount Purrnon Cat Cafe and Wine Bar",
+    "details": [
+      "109 S Alfred St.",
+      "Alexandria, VA, United States, 22314",
+      "Mount Purrnon Cat Caf\u00e9 + Wine Bar offers a unique spot in historic Old Town Alexandria to unwind with adoptable cats, enjoy a meal or drink, and explore the area\u2019s rich history. This cat caf\u00e9 provides a cage-free environment where cats learn to socialize and connect with future adopters, aiding in reducing euthanasia rates and supporting overcrowded shelters. Visitors can enjoy reference guides, maps, and books to enhance their experience and deepen their appreciation for Alexandria\u2019s historical charm."
+    ],
+    "formatted_address": "109 S Alfred St. Alexandria, VA, 22314, United States",
+    "lat": "38.8048908",
+    "lon": "-77.0494922"
+  },
+  {
+    "name": "Felius Cat Cafe",
+    "details": [
+      "515 Dodge St.",
+      "Omaha, NE, United States, 68132",
+      "An open-concept nonprofit cat shelter in the Omaha metro area, dedicated to finding forever homes for adoptable cats, supporting community cats through trap-neuter-return (TNR) programs, and offering cat care education to local cat enthusiasts."
+    ],
+    "formatted_address": "515 Dodge St. Omaha, NE, 68132, United States",
+    "lat": "41.2596420",
+    "lon": "-95.9968167"
+  },
+  {
+    "name": "Kitty Kingdom Cat Cafe",
+    "details": [
+      "565 Cedar Road, Suite 12",
+      "Chesapeake, VA, United States, 23322",
+      "Kitty Kingdom Cat Caf\u00e9 offers coffee and a relaxing environment where visitors can spend time with rescue cats. The caf\u00e9 features a tavern that serves cheese and wine pairings, as well as local beers. They partner with local shelters to provide opportunities for cat adoption."
+    ],
+    "formatted_address": "565 Cedar Road, Suite 12 Chesapeake, VA, 23322, United States",
+    "lat": "36.7116472",
+    "lon": "-76.2558972"
+  },
+  {
+    "name": "DeLand Cat Cafe",
+    "details": [
+      "844 East New York Ave, Unit B",
+      "DeLand, Florida, United States, 32724"
+    ],
+    "formatted_address": "844 East New York Ave, Unit B DeLand, Florida, 32724, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Champy\u2019s Catf\u00e9",
+    "details": [
+      "454 F St",
+      "Lincoln, California, United States, 95648",
+      "The closest cat cafe to Sacramento, Champy's Catf\u00e9 is located just inside the door of FieldHaven Marketplace. This cozy spot is Lincoln's own version of the popular trend of combining cats and coffee. You can bring your own coffee or tea and spend some quality time with some of FieldHaven's adorable adoptable cats. FieldHaven Marketplace is a thrift store that raises funds for FieldHaven Feline Center, a cat rescue organization."
+    ],
+    "formatted_address": "454 F St Lincoln, California, 95648, United States",
+    "lat": "38.8912489",
+    "lon": "-121.2916533"
+  },
+  {
+    "name": "Constellation Cat Cafe",
+    "details": [
+      "3320 East Lake Lansing Road",
+      "East Lansing, Michigan, United States, 48823"
+    ],
+    "formatted_address": "3320 East Lake Lansing Road East Lansing, Michigan, 48823, United States",
+    "lat": "42.7576499",
+    "lon": "-84.4748537"
+  },
+  {
+    "name": "Mount Purrnon Cat Cafe and Wine Bar",
+    "details": [
+      "109 S Alfred St",
+      "Alexandria, VA, United States, 22314",
+      "A two story cat cafe and wine bar in Alexandria, VA with adoptable cats."
+    ],
+    "formatted_address": "109 S Alfred St Alexandria, VA, 22314, United States",
+    "lat": "38.8048908",
+    "lon": "-77.0494922"
+  },
+  {
+    "name": "Give Purrs A Chance",
+    "details": [
+      "51 Independence St",
+      "Berkeley Springs, West Virginia, United States, 25411",
+      "A non-profit cat adoption center, claiming the largest cat cafe by square footage in the United States."
+    ],
+    "formatted_address": "51 Independence St Berkeley Springs, West Virginia, 25411, United States",
+    "lat": "39.6289206",
+    "lon": "-78.2270492"
+  },
+  {
+    "name": "Catfeine",
+    "details": [
+      "517 Cason Lane",
+      "Murfreesboro, Tennessee, United States, 37128"
+    ],
+    "formatted_address": "517 Cason Lane Murfreesboro, Tennessee, 37128, United States",
+    "lat": "35.8416392",
+    "lon": "-86.4402564"
+  },
+  {
+    "name": "Purrs and Paws Cat Cafe",
+    "details": [
+      "7979 Pittsford-Victor Rd, Suite 139",
+      "Victor, New York, United States, 14564"
+    ],
+    "formatted_address": "7979 Pittsford-Victor Rd, Suite 139 Victor, New York, 14564, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Purr Cat Cafe",
+    "details": ["Boston", "MA, United States"],
+    "formatted_address": "United States, Boston MA",
+    "lat": "42.3464366",
+    "lon": "-71.0489592"
+  },
+  {
+    "name": "Neko Cafe",
+    "details": [
+      "1170 Auahi St",
+      "Honolulu, Hawaii, United States, 96814",
+      "A pop up cat cafe event from the Hawaiian Humane Society."
+    ],
+    "formatted_address": "1170 Auahi St Honolulu, Hawaii, 96814, United States",
+    "lat": "21.2931863",
+    "lon": "-157.8521978"
+  },
+  {
+    "name": "Nine Lives Cat Lounge & Adoption Center",
+    "details": [
+      "2201 East 7th St.",
+      "Joplin, Missouri, United States, 64804",
+      "A cat lounge and adoption center in southwest Missouri with adoptable cats from Joplin Humane Society."
+    ],
+    "formatted_address": "2201 East 7th St. Joplin, Missouri, 64804, United States",
+    "lat": "37.0838930",
+    "lon": "-94.4903940"
+  },
+  {
+    "name": "The Tipsy Tabby",
+    "details": [
+      "90 Main Street",
+      "Newmarket, New Hampshire, United States, 03857"
+    ],
+    "formatted_address": "90 Main Street Newmarket, New Hampshire, 03857, United States",
+    "lat": "43.0796607",
+    "lon": "-70.9361098"
+  },
+  {
+    "name": "KitTea Cat Cafe",
+    "details": [
+      "1266 Valencia Street",
+      "San Francisco, CA, United States, 94110",
+      "In 2014, KitTea opened as one of the first cat cafes in the United States. They remain San Francisco's only cat cafe. Formerly located in Hayes Valley, KitTea's current location is in SF's Mission District. They are a permanent home for several resident cats and a temporary foster home for a few adoptable cats and kittens."
+    ],
+    "formatted_address": "1266 Valencia Street San Francisco, CA, 94110, United States",
+    "lat": "37.7525561",
+    "lon": "-122.4210154"
+  },
+  {
+    "name": "Koneko",
+    "details": ["26 Clinton St", "New York, New York, United States, 10002"],
+    "formatted_address": "26 Clinton St New York, New York, 10002, United States",
+    "lat": "40.7204622",
+    "lon": "-73.9841496"
+  },
+  {
+    "name": "Naughty Cat Cafe",
+    "details": [
+      "3742 Tennessee Ave., Suite 100",
+      "Chattanooga, Tennessee, United States, 37409"
+    ],
+    "formatted_address": "3742 Tennessee Ave., Suite 100 Chattanooga, Tennessee, 37409, United States",
+    "lat": "35.0112340",
+    "lon": "-85.3265950"
+  },
+  {
+    "name": "Eat, Purr, Love Cat Cafe",
+    "details": ["3041 Indianola Ave", "Columbus, Ohio, United States, 43202"],
+    "formatted_address": "3041 Indianola Ave Columbus, Ohio, 43202, United States",
+    "lat": "40.0257813",
+    "lon": "-83.0016617"
+  },
+  {
+    "name": "Mac Tabby Cat Cafe",
+    "details": [
+      "3204 N. Davidson St",
+      "Charlotte, North Carolina, United States, 28206"
+    ],
+    "formatted_address": "3204 N. Davidson St Charlotte, North Carolina, 28206, United States",
+    "lat": "35.2470721",
+    "lon": "-80.8054436"
+  },
+  {
+    "name": "Kitty Catfe",
+    "details": [
+      "9697 Firdale Ave",
+      "Edmonds, Washington, United States, 98020"
+    ],
+    "formatted_address": "9697 Firdale Ave Edmonds, Washington, 98020, United States",
+    "lat": "47.7790347",
+    "lon": "-122.3621581"
+  },
+  {
+    "name": "Kitty Korner Cat Rescue and Lounge",
+    "details": [
+      "9605 Firdale Ave",
+      "Edmonds, Washington, United States, 98020"
+    ],
+    "formatted_address": "9605 Firdale Ave Edmonds, Washington, 98020, United States",
+    "lat": "47.7782536",
+    "lon": "-122.3616194"
+  },
+  {
+    "name": "Purrista Cat Cafe",
+    "details": ["28 W 8th Street", "Erie, Pennsylvania, United States, 16501"],
+    "formatted_address": "28 W 8th Street Erie, Pennsylvania, 16501, United States",
+    "lat": "42.1273779",
+    "lon": "-80.0844198"
+  },
+  {
+    "name": "The Black Cat Cafe",
+    "details": ["42 Berkley Rd", "Devon, Pennsylvania, United States, 19333"],
+    "formatted_address": "42 Berkley Rd Devon, Pennsylvania, 19333, United States",
+    "lat": "40.0465766",
+    "lon": "-75.4140605"
+  },
+  {
+    "name": "Colony Cafe",
+    "details": [
+      "1125 Penn Avenue",
+      "Pittsburgh, Pennsylvania, United States, 15222"
+    ],
+    "formatted_address": "1125 Penn Avenue Pittsburgh, Pennsylvania, 15222, United States",
+    "lat": "40.4453888",
+    "lon": "-79.9931751"
+  },
+  {
+    "name": "Toe Beans Cat Cafe",
+    "details": [
+      "119 Peter St",
+      "Port Hope, Ontario, Canada, L1A 1C5",
+      "Partnered with the Northumberland Humane Society"
+    ],
+    "formatted_address": "119 Peter St Port Hope, Ontario, L1A 1C5, Canada",
+    "lat": "43.9494040",
+    "lon": "-78.2838286"
+  },
+  {
+    "name": "Fat Cat Cafe",
+    "details": [
+      "2901 East Park Ave, #2600",
+      "Tallahassee, Florida, United States, 32311"
+    ],
+    "formatted_address": "2901 East Park Ave, #2600 Tallahassee, Florida, 32311, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Cat Therapy",
+    "details": [
+      "1213 State St., Suite L",
+      "Santa Barbara, California, United States, 93101"
+    ],
+    "formatted_address": "1213 State St., Suite L Santa Barbara, California, 93101, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "VegaBoo Cat Haven",
+    "details": ["3211 Eastgate Dr.", "Regina, Saskatchewan, Canada, S4Z 1A4"],
+    "formatted_address": "3211 Eastgate Dr. Regina, Saskatchewan, S4Z 1A4, Canada",
+    "lat": "50.4507128",
+    "lon": "-104.5352427"
+  },
+  {
+    "name": "Purr Cup Cafe",
+    "details": [
+      "210 Prospect Ave",
+      "Raleigh, North Carolina, United States,  27603"
+    ],
+    "formatted_address": "210 Prospect Ave Raleigh, North Carolina, 27603, United States",
+    "lat": "35.7630810",
+    "lon": "-78.6485891"
+  },
+  {
+    "name": "La Gateria",
+    "details": [
+      "Tabasco 337, Roma Norte",
+      "Cuauht\u00e9moc, DF, Mexico, 06700"
+    ],
+    "formatted_address": "Tabasco 337, Roma Norte Cuauht\u00e9moc, DF, 06700, Mexico",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Paws the Cat Caf\u00e9",
+    "details": ["10588 109 Street", "Edmonton, Alberta, Canada, T5H 3B2"],
+    "formatted_address": "10588 109 Street Edmonton, Alberta, T5H 3B2, Canada",
+    "lat": "53.5495293",
+    "lon": "-113.5086520"
+  },
+  {
+    "name": "Mauhaus Cat Cafe and Lounge",
+    "details": [
+      "3101 Sutton Blvd",
+      "Maplewood, Missouri, United States, 63143",
+      "St. Louis' first cat cafe."
+    ],
+    "formatted_address": "3101 Sutton Blvd Maplewood, Missouri, 63143, United States",
+    "lat": "38.6080705",
+    "lon": "-90.3207426"
+  },
+  {
+    "name": "Kittens in Cups",
+    "details": [
+      "177 Defense Highway",
+      "Annapolis, Maryland, United States, 21401",
+      "A cat lounge with adoptable cats from AACSPCA in Annapolis."
+    ],
+    "formatted_address": "177 Defense Highway Annapolis, Maryland, 21401, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Purrfect Day Cafe Covington",
+    "details": [
+      "25 W 8th St",
+      "Covington, Kentucky, United States, 41011",
+      "A cat cafe in Covington, Kentucky from the owners of Purrfect Day Cafe in Louisville."
+    ],
+    "formatted_address": "25 W 8th St Covington, Kentucky, 41011, United States",
+    "lat": "39.0819386",
+    "lon": "-84.5105277"
+  },
+  {
+    "name": "Lucky Cat Caf\u00e9",
+    "details": [
+      "2230 Dundee Rd",
+      "Louisville, Kentucky, United States, 40205",
+      "A non-profit cat cafe with adoptable cats from six different animal rescues, including Shamrock Foundation.  Prepackaged vegan bakery treats from Flora Kitchenette and Sunergos Coffee are available for purchase."
+    ],
+    "formatted_address": "2230 Dundee Rd Louisville, Kentucky, 40205, United States",
+    "lat": "38.2232458",
+    "lon": "-85.6933824"
+  },
+  {
+    "name": "Purrfect Day Cat Cafe",
+    "details": [
+      "1741 Bardstown Rd",
+      "Louisville, Kentucky, United States, 40205"
+    ],
+    "formatted_address": "1741 Bardstown Rd Louisville, Kentucky, 40205, United States",
+    "lat": "38.2289947",
+    "lon": "-85.7017009"
+  },
+  {
+    "name": "Cattyshack Cafe",
+    "details": [
+      "9902 Gulf Coast Main St, D-140",
+      "Fort Myers, Florida, United States, 33913",
+      "Fort Myers' first cat cafe, partnered with Gulf Coast Humane Society to find homes for adoptable cats.  A 50 minute session in the cafe's cat room is $15. Reservations are not required but are recommended."
+    ],
+    "formatted_address": "9902 Gulf Coast Main St, D-140 Fort Myers, Florida, 33913, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Crooked Tail Cat Cafe",
+    "details": [
+      "604 S Elm Street",
+      "Greensboro, North Carolina, United States, 27401",
+      "A cat cafe located in downtown Greensboro, North Carolina. A place to grab some caffeine or a beer or wine and enjoy the company of cats."
+    ],
+    "formatted_address": "604 S Elm Street Greensboro, North Carolina, 27401, United States",
+    "lat": "36.0658336",
+    "lon": "-79.7909514"
+  },
+  {
+    "name": "Cat & Craft",
+    "details": [
+      "3211 Business Park Drive, Suite 3B",
+      "Vista, California, United States, 92081"
+    ],
+    "formatted_address": "3211 Business Park Drive, Suite 3B Vista, California, 92081, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Ella's CatHouse at The Ranch",
+    "details": [
+      "1199 Cuttings Wharf Rd",
+      "Napa, CA, United States, 94559",
+      "Adoptable cats live at Jameson Animal Rescue Ranch and potential adopters can make appointments to visit the ranch's catio."
+    ],
+    "formatted_address": "1199 Cuttings Wharf Rd Napa, CA, 94559, United States",
+    "lat": "38.2473660",
+    "lon": "-122.3195030"
+  },
+  {
+    "name": "Gem City Catf\u00e9",
+    "details": [
+      "1513 E 5th St",
+      "Dayton, Ohio, United States, 45403",
+      "A cat cafe adoption space in Dayton, Ohio. Since opening, Gem City Catfe started Gem City Kitties, their non-profit partner rescue where cats are pulled in from Humane Association of Warren County, Boone County Animal Shelter, Tri-State Spay and Neuter, and HALO. In addition to the adoptable cats that roam the lounge, there are resident cats who live at the catfe full time. The building has the cat lounge which has its own air ventilation system, the cafe seating area, and an art gallery upstairs. Not only does the cafe serve coffee and local bakery items but it serves cocktails and wine as well. Reservations for the cat lounge are not required but recommended. The other areas of the building are open during regular business hours.\r\n\r\nDue to COVID-19, the cat lounge is temporarily closed but the upstairs area is open."
+    ],
+    "formatted_address": "1513 E 5th St Dayton, Ohio, 45403, United States",
+    "lat": "39.7587820",
+    "lon": "-84.1729456"
+  },
+  {
+    "name": "The Cat's Meow Caf\u00e9",
+    "details": [
+      "7541 Biscayne Blvd",
+      "Miami, Florida, United States, 33138",
+      "After a successful Kickstarter campaign, Miami got its first cat cafe in June 2020. The Cat's Meow Cafe is located in the MiMo district of Miami, Florida. The combination retail space and cat adoption lounge features adoptable cats from Miami-Dade Animal Services. Vegan snacks are available for purchase at the snack bar. For $17, visitors can enter the cat lounge for an hour of kitty cuddle time."
+    ],
+    "formatted_address": "7541 Biscayne Blvd Miami, Florida, 33138, United States",
+    "lat": "25.8446351",
+    "lon": "-80.1843019"
+  },
+  {
+    "name": "Ella\u2019s CatHouse & Catnip Bar",
+    "details": [
+      "1009 Caymus St",
+      "Napa, California, United States, 94558",
+      "Napa's first cage-free, no-kill adoption center for cats was operated by Jameson Animal Rescue Ranch. This location has closed but adoptable cats live at The Ranch and potential adopters can make an appointment to visit."
+    ],
+    "formatted_address": "1009 Caymus St Napa, California, 94558, United States",
+    "lat": "38.3018019",
+    "lon": "-122.2878289"
+  },
+  {
+    "name": "The Dancing Cat",
+    "details": [
+      "702 E Julian Street",
+      "San Jose, California, United States, 95112"
+    ],
+    "formatted_address": "702 E Julian Street San Jose, California, 95112, United States",
+    "lat": "37.3473198",
+    "lon": "-121.8793025"
+  },
+  {
+    "name": "Mini Cat Town",
+    "details": [
+      "Eastridge Center, 2200 Eastridge Loop, Suite 1076",
+      "San Jose, California, United States, 95121",
+      "A nonprofit adoption lounge that specializes in rehabilitating orphaned neonatal kittens as well as trap, neuter, and release of feral cats."
+    ],
+    "formatted_address": "Eastridge Center, 2200 Eastridge Loop, Suite 1076 San Jose, California, 95121, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Scruffy's Cafe",
+    "details": [
+      "1015 North Broadway",
+      "Knoxville, Tennessee, United States, 37917"
+    ],
+    "formatted_address": "1015 North Broadway Knoxville, Tennessee, 37917, United States",
+    "lat": "35.9819071",
+    "lon": "-83.9234216"
+  },
+  {
+    "name": "Daily Mews Cat Cafe",
+    "details": [
+      "3748 Monroe Rd",
+      "Charlotte, North Carolina, United States, 28205"
+    ],
+    "formatted_address": "3748 Monroe Rd Charlotte, North Carolina, 28205, United States",
+    "lat": "35.1988802",
+    "lon": "-80.7953940"
+  },
+  {
+    "name": "Buckminster's Cat Cafe",
+    "details": ["577 Niagara St", "Buffalo, New York, United States, 14201"],
+    "formatted_address": "577 Niagara St Buffalo, New York, 14201, United States",
+    "lat": "42.8995774",
+    "lon": "-78.8901205"
+  },
+  {
+    "name": "Frisky Cat Cafe",
+    "details": [
+      "1092 S Ponce De Leon Blvd",
+      "St Augustine, Florida, United States, 32084"
+    ],
+    "formatted_address": "1092 S Ponce De Leon Blvd St Augustine, Florida, 32084, United States",
+    "lat": "29.8810083",
+    "lon": "-81.3250702"
+  },
+  {
+    "name": "El Jefe Cat Lounge",
+    "details": [
+      "3025 N Campbell Ave, Suite 141",
+      "Tucson, Arizona, United States, 85719",
+      "The first cat lounge in Tucson, AZ. The adoptable lounge cats come from rescue partner Hermitage No-Kill Cat Shelter and Sanctuary."
+    ],
+    "formatted_address": "3025 N Campbell Ave, Suite 141 Tucson, Arizona, 85719, United States",
+    "lat": "32.2618831",
+    "lon": "-110.9445020"
+  },
+  {
+    "name": "Catopia Cat Cafe",
+    "details": [
+      "8001 Wyoming Blvd NE, Suite C-5",
+      "Albuquerque, New Mexico, United States, 87113"
+    ],
+    "formatted_address": "8001 Wyoming Blvd NE, Suite C-5 Albuquerque, New Mexico, 87113, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "affoGATO Cat Cafe",
+    "details": [
+      "761 Starkweather Ave",
+      "Cleveland, Ohio, United States, 44113"
+    ],
+    "formatted_address": "761 Starkweather Ave Cleveland, Ohio, 44113, United States",
+    "lat": "41.4774455",
+    "lon": "-81.6824075"
+  },
+  {
+    "name": "Cat Cafe South Beach",
+    "details": [
+      "1423 Washington Ave",
+      "Miami Beach, Florida, United States, 33139"
+    ],
+    "formatted_address": "1423 Washington Ave Miami Beach, Florida, 33139, United States",
+    "lat": "25.7863058",
+    "lon": "-80.1316405"
+  },
+  {
+    "name": "The Kitty Beautiful",
+    "details": [
+      "360 State Lane",
+      "Orlando, Florida, United States, 32801",
+      "A cat cafe coming to Orlando in Spring 2019."
+    ],
+    "formatted_address": "360 State Lane Orlando, Florida, 32801, United States",
+    "lat": "28.5468430",
+    "lon": "-81.3803744"
+  },
+  {
+    "name": "The Purrfect Cup",
+    "details": [
+      "580 Two Nations Crossing",
+      "Fredericton, New Brunswick, Canada, E3A 0X9"
+    ],
+    "formatted_address": "580 Two Nations Crossing Fredericton, New Brunswick, E3A 0X9, Canada",
+    "lat": "45.9821299",
+    "lon": "-66.6139497"
+  },
+  {
+    "name": "Kitty Love Cat Cafe",
+    "details": [
+      "2129 E Boulder St",
+      "Colorado Springs, Colorado, United States, 80909",
+      "Pop up cat cafe in Colorado Springs from rescue Look What the Cat Brought In"
+    ],
+    "formatted_address": "2129 E Boulder St Colorado Springs, Colorado, 80909, United States",
+    "lat": "38.8381517",
+    "lon": "-104.7890099"
+  },
+  {
+    "name": "The Catio",
+    "details": [
+      "1603 Riverside Dr",
+      "Nashville, Tennessee, United States, 37216"
+    ],
+    "formatted_address": "1603 Riverside Dr Nashville, Tennessee, 37216, United States",
+    "lat": "36.1955680",
+    "lon": "-86.7233391"
+  },
+  {
+    "name": "Purrfect Cafe and Gallery",
+    "details": [
+      "1507 Hertel Ave",
+      "Buffalo, New York, United States, 14216",
+      "Adoptable cats from Ten Lives Club"
+    ],
+    "formatted_address": "1507 Hertel Ave Buffalo, New York, 14216, United States",
+    "lat": "42.9475024",
+    "lon": "-78.8523046"
+  },
+  {
+    "name": "Clowder of Cats Cat Lounge",
+    "details": [
+      "2470 Patterson Rd, Unit 3",
+      "Grand Junction, Colorado, United States, 81505"
+    ],
+    "formatted_address": "2470 Patterson Rd, Unit 3 Grand Junction, Colorado, 81505, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Alley Cat Cafe",
+    "details": [
+      "312 E Seneca St",
+      "Ithaca, New York, United States, 14850",
+      "Adoptions through Browncoat Cat Rescue"
+    ],
+    "formatted_address": "312 E Seneca St Ithaca, New York, 14850, United States",
+    "lat": "42.4406288",
+    "lon": "-76.4951495"
+  },
+  {
+    "name": "Bradshaw Animal Shelter",
+    "details": [
+      "3839 Bradshaw Rd",
+      "Sacramento, California, United States, 95827"
+    ],
+    "formatted_address": "3839 Bradshaw Rd Sacramento, California, 95827, United States",
+    "lat": "38.5534245",
+    "lon": "-121.3354725"
+  },
+  {
+    "name": "Purrsonal Space",
+    "details": [
+      "1005 Market Street",
+      "Palmyra, New Jersey, United States, 08065",
+      "The first cat lounge in South Jersey."
+    ],
+    "formatted_address": "1005 Market Street Palmyra, New Jersey, 08065, United States",
+    "lat": "40.0053657",
+    "lon": "-75.0368362"
+  },
+  {
+    "name": "Calico Cat Cafe",
+    "details": [
+      "907 Vintage Valley Pkwy",
+      "Zillah, Washington, United States, 98953",
+      "A planned venture from nonprofit Community SEEDS."
+    ],
+    "formatted_address": "907 Vintage Valley Pkwy Zillah, Washington, 98953, United States",
+    "lat": "46.4055184",
+    "lon": "-120.2771734"
+  },
+  {
+    "name": "ZenCat Lounge",
+    "details": [
+      "1211 W Central Ave",
+      "Brea, California, United States, 92821",
+      "A meditation lounge with adoptable cats."
+    ],
+    "formatted_address": "1211 W Central Ave Brea, California, 92821, United States",
+    "lat": "33.9321248",
+    "lon": "-117.8958358"
+  },
+  {
+    "name": "Catitude Cat Cafe",
+    "details": [
+      "118 State St.",
+      "West Columbia, South Carolina, United States, 29169",
+      "Working with Pets Inc to find homes for cats at the Columbia area's first cat cafe."
+    ],
+    "formatted_address": "118 State St. West Columbia, South Carolina, 29169, United States",
+    "lat": "33.9939073",
+    "lon": "-81.0560165"
+  },
+  {
+    "name": "Sip & Purr Cat Cafe",
+    "details": [
+      "2021 E. Ivanhoe Place",
+      "Milwaukee, Wisconsin, United States, 53202"
+    ],
+    "formatted_address": "2021 E. Ivanhoe Place Milwaukee, Wisconsin, 53202, United States",
+    "lat": "43.0586533",
+    "lon": "-87.8826346"
+  },
+  {
+    "name": "Location Cat Automat",
+    "details": [
+      "5513 S. Williamson Blvd, #211",
+      "Port Orange, Florida, United States, 32128",
+      "The country's first cat automat. $5 entrance fee. Partnered with Halifax Humane Society."
+    ],
+    "formatted_address": "5513 S. Williamson Blvd, #211 Port Orange, Florida, 32128, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Tally Cat Cafe",
+    "details": [
+      "2218 N Monroe St",
+      "Tallahassee, Florida, United States, 32303"
+    ],
+    "formatted_address": "2218 N Monroe St Tallahassee, Florida, 32303, United States",
+    "lat": "30.4694675",
+    "lon": "-84.2889509"
+  },
+  {
+    "name": "The Catcade",
+    "details": [
+      "1235 W. Belmont Ave",
+      "Chicago, United States, 60657",
+      "A non-profit cat cafe with retro video games."
+    ],
+    "formatted_address": "1235 W. Belmont Ave Chicago, 60657, United States",
+    "lat": "41.9397966",
+    "lon": "-87.6614114"
+  },
+  {
+    "name": "Charm Kitty Cafe",
+    "details": [
+      "3300 Clipper Mill Rd",
+      "Baltimore, Maryland, United States, 21211"
+    ],
+    "formatted_address": "3300 Clipper Mill Rd Baltimore, Maryland, 21211, United States",
+    "lat": "39.3274597",
+    "lon": "-76.6385458"
+  },
+  {
+    "name": "Denver Cat Company",
+    "details": [
+      "3929 Tennyson S",
+      "Denver, Colorado, United States, 80212",
+      "A coffeeshop-like cat lounge with prepackaged food and drink available for purchase."
+    ],
+    "formatted_address": "3929 Tennyson S Denver, Colorado, 80212, United States",
+    "lat": "39.6692233",
+    "lon": "-105.0438331"
+  },
+  {
+    "name": "Excalipurr Cat Cafe",
+    "details": ["2156 Albert St", "Regina, Saskatchewan, Canada, S4P 2T9"],
+    "formatted_address": "2156 Albert St Regina, Saskatchewan, S4P 2T9, Canada",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Whiskers Cat Cafe",
+    "details": [
+      "3705 Southwest Trafficway",
+      "Kansas City, Missouri, United States, 64111"
+    ],
+    "formatted_address": "3705 Southwest Trafficway Kansas City, Missouri, 64111, United States",
+    "lat": "39.0593732",
+    "lon": "-94.5950919"
+  },
+  {
+    "name": "Caf\u00e9 F\u00e9lin Ma Langue Aux Chats",
+    "details": ["307 Rue Saint-Paul", "Quebec, Quebec, Canada, G1K 3W6"],
+    "formatted_address": "307 Rue Saint-Paul Quebec, Quebec, G1K 3W6, Canada",
+    "lat": "46.8167783",
+    "lon": "-71.2118312"
+  },
+  {
+    "name": "El Gato Coffeehouse",
+    "details": ["504 Pecore Street", "Houston, Texas, United States, 77009"],
+    "formatted_address": "504 Pecore Street Houston, Texas, 77009, United States",
+    "lat": "29.7905125",
+    "lon": "-95.3767446"
+  },
+  {
+    "name": "The Cafe Meow",
+    "details": [
+      "2323 Hennepin Ave",
+      "Minneapolis, Minnesota, United States, 55405"
+    ],
+    "formatted_address": "2323 Hennepin Ave Minneapolis, Minnesota, 55405, United States",
+    "lat": "44.9594484",
+    "lon": "-93.2935771"
+  },
+  {
+    "name": "The Purrfect Cat Caf\u00e9",
+    "details": [
+      "5800 Santa Rosa Rd, Suite 142",
+      "Camarillo, California, United States, 93012",
+      "Ventura's only cat lounge where $10 gets you a visit with cats for an hour and a complimentary beverage."
+    ],
+    "formatted_address": "5800 Santa Rosa Rd, Suite 142 Camarillo, California, 93012, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "The Charming Cat Cafe",
+    "details": [
+      "2401 S Stemmons Fwy, #1306",
+      "Lewisville, Texas, United States, 75067",
+      "Dallas/Fort Worth's first cat lounge with cats from Kitty Save. Included with your visit is a coupon to one of the Vista Ridge Mall's food court vendors. A 30 minute visit is $8.50 and a one hour visit is $12. Admission subscription plans are available."
+    ],
+    "formatted_address": "2401 S Stemmons Fwy, #1306 Lewisville, Texas, 75067, United States",
+    "lat": "33.0022160",
+    "lon": "-96.9711665"
+  },
+  {
+    "name": "Catnip Cat Cafe",
+    "details": [
+      "2200 Colonial Ave.",
+      "Norfolk, Virginia, United States, 23517",
+      "Cat cafe in Ghent where $10 gets you one hour with the cats and a complimentary beverage."
+    ],
+    "formatted_address": "2200 Colonial Ave. Norfolk, Virginia, 23517, United States",
+    "lat": "36.8701384",
+    "lon": "-76.2909011"
+  },
+  {
+    "name": "Java Cats Cafe",
+    "details": [
+      "415 Memorial Drive SE, Suite C",
+      "Atlanta, Georgia, United States, 30312"
+    ],
+    "formatted_address": "415 Memorial Drive SE, Suite C Atlanta, Georgia, 30312, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Tree House Humane Society",
+    "details": [
+      "7225 N. Western Ave",
+      "Chicago, Illinois, United States, 60645"
+    ],
+    "formatted_address": "7225 N. Western Ave Chicago, Illinois, 60645, United States",
+    "lat": "42.0130251",
+    "lon": "-87.6899596"
+  },
+  {
+    "name": "Alley Cat Cafe",
+    "details": [
+      "106 Clearskye Way, Unit 8",
+      "Red Deer, Alberta, Canada, T4E 0A1",
+      "Partnered with Alley Cats Rescue Society to help find homes for cats."
+    ],
+    "formatted_address": "106 Clearskye Way, Unit 8 Red Deer, Alberta, T4E 0A1, Canada",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Mewsic Kitty Cafe",
+    "details": [
+      "2519 Nolensville Pike",
+      "Nashville, Tennessee, United States, 37211"
+    ],
+    "formatted_address": "2519 Nolensville Pike Nashville, Tennessee, 37211, United States",
+    "lat": "36.0611721",
+    "lon": "-86.7167218"
+  },
+  {
+    "name": "Meow or Never Cafe & Rescue",
+    "details": [
+      "1201 S Main Street",
+      "Las Vegas, Nevada, United States, 89104",
+      "Las Vegas' first cat cafe"
+    ],
+    "formatted_address": "1201 S Main Street Las Vegas, Nevada, 89104, United States",
+    "lat": "36.1685921",
+    "lon": "-115.1483261"
+  },
+  {
+    "name": "The Casual Cat Cafe",
+    "details": [
+      "7264 Glenview Dr",
+      "Richland Hills, Texas, United States, 76180",
+      "Dallas - Fort Worth area cat cafe"
+    ],
+    "formatted_address": "7264 Glenview Dr Richland Hills, Texas, 76180, United States",
+    "lat": "32.8236086",
+    "lon": "-97.2248249"
+  },
+  {
+    "name": "Catfecito",
+    "details": [
+      "Baja California 266, Col. Hip\u00f3dromo Condesa",
+      "Mexico City, Mexico, 06100"
+    ],
+    "formatted_address": "Baja California 266, Col. Hip\u00f3dromo Condesa Mexico City, 06100, Mexico",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Rahway Kitty Hall",
+    "details": ["209 West Main St", "Rahway, New Jersey, United States, 07065"],
+    "formatted_address": "209 West Main St Rahway, New Jersey, 07065, United States",
+    "lat": "40.6110615",
+    "lon": "-74.2767317"
+  },
+  {
+    "name": "Catsbury Park",
+    "details": [
+      "708 Cookman Ave",
+      "Asbury Park, New Jersey, United States, 07712"
+    ],
+    "formatted_address": "708 Cookman Ave Asbury Park, New Jersey, 07712, United States",
+    "lat": "40.2157077",
+    "lon": "-74.0123998"
+  },
+  {
+    "name": "Cat Cafe On Whyte",
+    "details": ["10111 82 Ave NW", "Edmonton, Alberta, Canada, T6E 1Z5"],
+    "formatted_address": "10111 82 Ave NW Edmonton, Alberta, T6E 1Z5, Canada",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Blue Cat Cafe",
+    "details": ["95 Navasota St", "Austin, Texas, United States, 78702"],
+    "formatted_address": "95 Navasota St Austin, Texas, 78702, United States",
+    "lat": "30.2587760",
+    "lon": "-97.7306540"
+  },
+  {
+    "name": "Good Luck Cat Cafe",
+    "details": [
+      "2365 Wilton Dr",
+      "Wilton Manors, Florida, United States, 33305",
+      "A cat cafe located inside of Boomerangs Thrift Store."
+    ],
+    "formatted_address": "2365 Wilton Dr Wilton Manors, Florida, 33305, United States",
+    "lat": "26.1580678",
+    "lon": "-80.1351899"
+  },
+  {
+    "name": "The Scratching Post Cafe",
+    "details": [
+      "3410 Wrightsville Ave",
+      "Wilmington, North Carolina, United States"
+    ],
+    "formatted_address": "3410 Wrightsville Ave Wilmington, United States, North Carolina",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Lanai Cat Santuary",
+    "details": [
+      "1 Kaupili Rd",
+      "Lanai City, Hawaii, United States, 96763",
+      "A non-profit sanctuary in Hawaii that houses over 500 cats."
+    ],
+    "formatted_address": "1 Kaupili Rd Lanai City, Hawaii, 96763, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Kzoo Cat Cafe",
+    "details": [
+      "1128 W Michigan Ave",
+      "Kalamazoo, Michigan, United States, 49006",
+      "A cat cafe for Kalamazoo, Michigan, partnered with Cat Nap Lodge rescue."
+    ],
+    "formatted_address": "1128 W Michigan Ave Kalamazoo, Michigan, 49006, United States",
+    "lat": "42.2877796",
+    "lon": "-85.6010986"
+  },
+  {
+    "name": "Organic Cat Cafe",
+    "details": [
+      "123 College St",
+      "Greenville, South Carolina, United States, 29601"
+    ],
+    "formatted_address": "123 College St Greenville, South Carolina, 29601, United States",
+    "lat": "34.8541700",
+    "lon": "-82.3993222"
+  },
+  {
+    "name": "Morgan's Cat Cafe",
+    "details": [
+      "35 West Market St, 3rd Floor",
+      "Red Hook, New York, United States, 12571"
+    ],
+    "formatted_address": "35 West Market St, 3rd Floor Red Hook, New York, 12571, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Meow Cat Cafe",
+    "details": ["556 Mt Pleasant Rd", "Ontario, Canada, M4S 2M6"],
+    "formatted_address": "556 Mt Pleasant Rd Ontario, M4S 2M6, Canada",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Regal Cat Cafe",
+    "details": [
+      "303 10 St NW",
+      "Calgary, Alberta, Canada, T2N 1V8",
+      "A cat cafe opening in Kensington to house cats from MEOW Foundation."
+    ],
+    "formatted_address": "303 10 St NW Calgary, Alberta, T2N 1V8, Canada",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Tiny Lions Lounge & Adoption Center",
+    "details": [
+      "5245 Jackson Rd, Suite A1",
+      "Ann Arbor, Michigan, United States, 48103",
+      "A lounge and adoption center from the Humane Society of Huron Valley. No food or drinks are served but you are welcome to bring in your own drinks."
+    ],
+    "formatted_address": "5245 Jackson Rd, Suite A1 Ann Arbor, Michigan, 48103, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Happy Cat Cafe",
+    "details": [
+      "447 Division Ave S",
+      "Grand Rapids, Michigan, United States, 49503"
+    ],
+    "formatted_address": "447 Division Ave S Grand Rapids, Michigan, 49503, United States",
+    "lat": "42.9545605",
+    "lon": "-85.6678032"
+  },
+  {
+    "name": "The Cat House on the Kings",
+    "details": [
+      "7120 S Kings River Rd",
+      "Parlier, California, United States, 93648",
+      "The largest no-kill, no-cage cat sanctuary and adoption center in California. Visits are by appointment only."
+    ],
+    "formatted_address": "7120 S Kings River Rd Parlier, California, 93648, United States",
+    "lat": "36.6315049",
+    "lon": "-119.4703578"
+  },
+  {
+    "name": "The Great Catsby",
+    "details": [
+      "303 Main St.",
+      "Spring, Texas, United States, 77373",
+      "A once a month pop-up cat cafe hosted by Operation Pets Alive, a nonprofit animal rescue organization in Spring, Texas."
+    ],
+    "formatted_address": "303 Main St. Spring, Texas, 77373, United States",
+    "lat": "30.0791467",
+    "lon": "-95.4200385"
+  },
+  {
+    "name": "Le Cat Cafe",
+    "details": [
+      "2713 W Girard Ave",
+      "Philadelphia, Pennsylvania, United States, 19130"
+    ],
+    "formatted_address": "2713 W Girard Ave Philadelphia, Pennsylvania, 19130, United States",
+    "lat": "39.9745068",
+    "lon": "-75.1808815"
+  },
+  {
+    "name": "River Kitty Cat Cafe",
+    "details": [
+      "226 Main Street",
+      "Evansville, Indiana, United States, 47708",
+      "A cat cafe that features adoptable cats from Vanderburgh Humane Society."
+    ],
+    "formatted_address": "226 Main Street Evansville, Indiana, 47708, United States",
+    "lat": "37.9706875",
+    "lon": "-87.5729683"
+  },
+  {
+    "name": "Seattle Meowtropolitan",
+    "details": ["1225 N 45th St", "Seattle, Washington, United States, 98103"],
+    "formatted_address": "1225 N 45th St Seattle, Washington, 98103, United States",
+    "lat": "47.6614062",
+    "lon": "-122.3520845"
+  },
+  {
+    "name": "Miss J.La's Fur Babies Cat Cafe",
+    "details": [
+      "7-1099 Kingsbury Avenue",
+      "Winnipeg, Manitoba, Canada, R2P 2P9"
+    ],
+    "formatted_address": "7-1099 Kingsbury Avenue Winnipeg, Manitoba, R2P 2P9, Canada",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Animal Care Sanctuary Cat Cafe",
+    "details": [
+      "353 Sanctuary Hill Ln",
+      "East Smithfield, Pennysylvania, United States, 18817",
+      "East Smithfield's Animal Care Sanctuary holds special event cat cafe pop ups. Check their website for more information and dates."
+    ],
+    "formatted_address": "353 Sanctuary Hill Ln East Smithfield, Pennysylvania, 18817, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Happy Tabby Cat Cafe",
+    "details": [
+      "527 Irwin Street N.E.",
+      "Atlanta, Georgia, United States, 30312"
+    ],
+    "formatted_address": "527 Irwin Street N.E. Atlanta, Georgia, 30312, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Brooklyn Cat Cafe",
+    "details": ["149 Atlantic Ave", "Brooklyn, New York, United States, 11201"],
+    "formatted_address": "149 Atlantic Ave Brooklyn, New York, 11201, United States",
+    "lat": "40.6906601",
+    "lon": "-73.9950798"
+  },
+  {
+    "name": "Catfe Lounge",
+    "details": [
+      "821 Livernois St",
+      "Ferndale, Michigan, United States, 48220",
+      "The Catf\u00e9 Lounge is Michigan's first permanent cat cafe as part of the Ferndale Cat Shelter."
+    ],
+    "formatted_address": "821 Livernois St Ferndale, Michigan, 48220, United States",
+    "lat": "42.4532110",
+    "lon": "-83.1430149"
+  },
+  {
+    "name": "My Kitty Cafe",
+    "details": ["117 Wyndham Street North", "Guelph, Ontario, Canada, N1H 4E9"],
+    "formatted_address": "117 Wyndham Street North Guelph, Ontario, N1H 4E9, Canada",
+    "lat": "43.5470321",
+    "lon": "-80.2496353"
+  },
+  {
+    "name": "Kawaii Kitty Cafe",
+    "details": [
+      "759 S 4th St",
+      "Philadelphia, Pennsylvania, United States, 19147",
+      "Philly's first cat cafe."
+    ],
+    "formatted_address": "759 S 4th St Philadelphia, Pennsylvania, 19147, United States",
+    "lat": "39.9408250",
+    "lon": "-75.1493644"
+  },
+  {
+    "name": "Cat Caf\u00e9 Montr\u00e9al",
+    "details": ["3435 Rue Saint-Denis", "Montreal, Quebec, Canada, H2X 3L1"],
+    "formatted_address": "3435 Rue Saint-Denis Montreal, Quebec, H2X 3L1, Canada",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Whiskers' Cat Caf\u00e9 and Lounge",
+    "details": ["Lexington", "Kentucky, United States", "Closed in 2017"],
+    "formatted_address": "United States, Lexington Kentucky",
+    "lat": "38.0735819",
+    "lon": "-84.5403141"
+  },
+  {
+    "name": "The Cat Cafe",
+    "details": ["472 Third Ave", "San Diego, California, United States, 92101"],
+    "formatted_address": "472 Third Ave San Diego, California, 92101, United States",
+    "lat": "32.7298110",
+    "lon": "-117.1620990"
+  },
+  {
+    "name": "Southpaw Cat Cafe",
+    "details": ["749 Bayridge Drive", "Kingston, Ontario, Canada, K7P 2P2"],
+    "formatted_address": "749 Bayridge Drive Kingston, Ontario, K7P 2P2, Canada",
+    "lat": "44.2508096",
+    "lon": "-76.5897201"
+  },
+  {
+    "name": "Feline Cafe",
+    "details": [
+      "1076 Wellington St. W.",
+      "Ottawa, Ontario, Canada, K1Y 2Y3",
+      "Feline Caf\u00e9 is Ottawa's first cat cafe."
+    ],
+    "formatted_address": "1076 Wellington St. W. Ottawa, Ontario, K1Y 2Y3, Canada",
+    "lat": "45.4034263",
+    "lon": "-75.7247949"
+  },
+  {
+    "name": "Tinker's Cat Cafe",
+    "details": ["302 E 900 S", "Salt Lake City, Utah, United States, 84111"],
+    "formatted_address": "302 E 900 S Salt Lake City, Utah, 84111, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Kitty Brew Cat Cafe",
+    "details": ["6011 Tylersville Road", "Mason, Ohio, United States, 45040"],
+    "formatted_address": "6011 Tylersville Road Mason, Ohio, 45040, United States",
+    "lat": "39.3513413",
+    "lon": "-84.3290849"
+  },
+  {
+    "name": "Cat Cafe Mad",
+    "details": ["1925 Monroe St", "Madison, Wisconsin, United States, 53711"],
+    "formatted_address": "1925 Monroe St Madison, Wisconsin, 53711, United States",
+    "lat": "43.0639437",
+    "lon": "-89.4181246"
+  },
+  {
+    "name": "CatCafe Lounge",
+    "details": [
+      "1736 S. Sepulveda Blvd",
+      "Los Angeles, California, United States, 90025"
+    ],
+    "formatted_address": "1736 S. Sepulveda Blvd Los Angeles, California, 90025, United States",
+    "lat": "34.0473128",
+    "lon": "-118.4441528"
+  },
+  {
+    "name": "Neko Cat Cafe",
+    "details": [
+      "519 E. Pine St.",
+      "Seattle, Washington, United States, 98122",
+      "Partnered with Regional Animal Services of King County"
+    ],
+    "formatted_address": "519 E. Pine St. Seattle, Washington, 98122, United States",
+    "lat": "47.6150983",
+    "lon": "-122.3283032"
+  },
+  {
+    "name": "Crumbs & Whiskers Los Angeles",
+    "details": [
+      "7924 Melrose Ave",
+      "Los Angeles, California, United States, 90048",
+      "Another cat cafe from the owners of Crumbs & Whiskers in Washington, DC."
+    ],
+    "formatted_address": "7924 Melrose Ave Los Angeles, California, 90048, United States",
+    "lat": "34.0836622",
+    "lon": "-118.3623507"
+  },
+  {
+    "name": "Happy Cat Cafe Montreal",
+    "details": ["172 Duluth Est", "Montreal, Canada,  H2W 1H3"],
+    "formatted_address": "172 Duluth Est Montreal, H2W 1H3, Canada",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "La Gattara Cat Lounge & Boutique",
+    "details": [
+      "1301 E. University Drive, Suite 136",
+      "Tempe, Arizona, United States, 85281"
+    ],
+    "formatted_address": "1301 E. University Drive, Suite 136 Tempe, Arizona, 85281, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Orlando Cat Cafe",
+    "details": [
+      "532 Cagan Park Avenue",
+      "Clermont, Florida, United States, 34714",
+      "Orlando Cat Caf\u00e9 is Florida's first cat cafe. Grab a cup of coffee and go hang out with 12-15 adoptable cats. The cat play area is open Tuesday through Sunday 10am to 6pm. The cats are always visible through the cafe, even if the play area is closed. For cafe hours, see below!"
+    ],
+    "formatted_address": "532 Cagan Park Avenue Clermont, Florida, 34714, United States",
+    "lat": "28.3543551",
+    "lon": "-81.6778594"
+  },
+  {
+    "name": "Nine Lives Cat Cafe",
+    "details": [
+      "1315 Shelby St, Suite 1",
+      "Indianapolis, Indiana, United States, 46203",
+      "Nine Lives Cat Caf\u00e9 is a cat cafe from a daughter-father duo in Indianapolis. The cafe is a temporary home to adoptable cats from the Humane Society of Indianapolis."
+    ],
+    "formatted_address": "1315 Shelby St, Suite 1 Indianapolis, Indiana, 46203, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Meow Parlour",
+    "details": [
+      "46 Hester Street",
+      "Manhattan, New York, United States, 10002"
+    ],
+    "formatted_address": "46 Hester Street Manhattan, New York, 10002, United States",
+    "lat": "40.7155674",
+    "lon": "-73.9902825"
+  },
+  {
+    "name": "Siberian Cat Caf\u00e9",
+    "details": [
+      "205 Chemin Old Chelsea",
+      "Chelsea, Quebec, Canada, J9B 1J3",
+      "Siberian Cat Cafe (Caf\u00e9 chat Sib\u00e9rien) in Chelsea, Qu\u00e9bec has seven adorable Siberian cats which are known for being better for cat allergy sufferers."
+    ],
+    "formatted_address": "205 Chemin Old Chelsea Chelsea, Quebec, J9B 1J3, Canada",
+    "lat": "45.5027568",
+    "lon": "-75.8081418"
+  },
+  {
+    "name": "Bastet Cat Caf\u00e9",
+    "details": [
+      "Calle Ignacio Zaragoza 8270, Zona Centro",
+      "Tijuana, BC, Mexico, 22000",
+      "Tijuana's first and only cat cafe featuring both resident cats and adoptable ones."
+    ],
+    "formatted_address": "Calle Ignacio Zaragoza 8270, Zona Centro Tijuana, BC, 22000, Mexico",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Catf\u00e9",
+    "details": [
+      "88 West Pender St.",
+      "Vancouver, British Columbia, Canada, V6B 6N9",
+      "Vancouver's first cat cafe! Catfe serves food as well as coffee and tea."
+    ],
+    "formatted_address": "88 West Pender St. Vancouver, British Columbia, V6B 6N9, Canada",
+    "lat": "49.2805722",
+    "lon": "-123.1071023"
+  },
+  {
+    "name": "Purringtons Cat Lounge",
+    "details": [
+      "3529 NE Martin Luther King Jr Blvd",
+      "Portland, OR, United States, 97212",
+      "Purrington's Cat Lounge was the first cafe in America to serve alcoholic beverages as well as coffee and tea. They are closed permanently."
+    ],
+    "formatted_address": "3529 NE Martin Luther King Jr Blvd Portland, OR, 97212, United States",
+    "lat": "45.5487376",
+    "lon": "-122.6619517"
+  },
+  {
+    "name": "Crumbs & Whiskers D.C.",
+    "details": [
+      "3211 O St. NW",
+      "Washington, DC, United States, 20007",
+      "Crumbs & Whiskers brings together the best things in life: friends, coffee, and shelter cats. All our cats come from local rescues and are up for adoption. All items on our menu are delivered in real-time by local coffee shops. (We do not prepare any food/drinks in-house)"
+    ],
+    "formatted_address": "3211 O St. NW Washington, DC, 20007, United States",
+    "lat": null,
+    "lon": null
+  },
+  {
+    "name": "Pounce Cat Cafe + Wine Bar",
+    "details": [
+      "283 Meeting St",
+      "Charleston, South Carolina, United States, 29401"
+    ],
+    "formatted_address": "283 Meeting St Charleston, South Carolina, 29401, United States",
+    "lat": "32.7845597",
+    "lon": "-79.9331355"
+  },
+  {
+    "name": "Cat Town Cafe",
+    "details": ["2869 Broadway", "Oakland, California, United States, 94612"],
+    "formatted_address": "2869 Broadway Oakland, California, 94612, United States",
+    "lat": "37.8173661",
+    "lon": "-122.2632620"
+  },
+  {
+    "name": "Kokomo Humane Society Cat Caf\u00e9",
+    "details": ["729 E. Hoffer St.", "Kokomo, Indiana, United States, 46902"],
+    "formatted_address": "729 E. Hoffer St. Kokomo, Indiana, 46902, United States",
+    "lat": "40.4658970",
+    "lon": "-86.1233977"
+  },
+  {
+    "name": "Treetops Kitty Caf\u00e9",
+    "details": [
+      "305 W State St",
+      "Kennett Square, Pennsylvania, United States, 19348",
+      "Chester County's first cat cafe is run by Treetops Animal Rescue."
+    ],
+    "formatted_address": "305 W State St Kennett Square, Pennsylvania, 19348, United States",
+    "lat": "39.8466962",
+    "lon": "-75.7149637"
+  }
+]
