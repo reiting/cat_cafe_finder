@@ -7,8 +7,8 @@ export default defineConfig({
     react({
       babel: {
         plugins: [["babel-plugin-react-compiler"]],
-        base: "/cat_cafe_finder/",
       },
     }),
   ],
+  base: "/cat_cafe_finder/",
 });
