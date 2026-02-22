@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import "./App.css";
 import "leaflet/dist/leaflet.css";
 import { MapContainer, TileLayer } from "react-leaflet";
-import { LocationMarker } from "./components/MapTile";
+import { LocationMarker } from "./components/LocationMarker";
 
 function App() {
   const [permission, setPermission] = useState(false);
@@ -27,7 +27,7 @@ function App() {
 
   const defaultCenter = [39.5, -98.35];
 
-  const distancesInMiles = [20, 30, 40, 50, 60, 70, 80, 90, 100];
+  const distancesInMiles = [20, 30, 40, 50, 60, 70, 80, 90, 100, 900];
 
   const distancesArray = distancesInMiles.map((miles) => {
     return {
@@ -62,7 +62,12 @@ function App() {
             center={defaultCenter}
             zoom={4}
             scrollWheelZoom={false}
-            style={{ height: "100vh", width: "100vw", maxWidth: "100%" }}
+            style={{
+              height: "100vh",
+              width: "100vw",
+              maxWidth: "100%",
+              display: "block",
+            }}
           >
             <TileLayer
               attribution='&copy; <a href="https://www.openstreetmap.org">OpenStreetMap</a> contributers'

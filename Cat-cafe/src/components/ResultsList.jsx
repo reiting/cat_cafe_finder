@@ -11,23 +11,25 @@ export const ResultsList = ({ filteredCafes }) => {
   };
 
   return (
-    <ul className="results">
-      {filteredCafes.length > 0 ? (
-        filteredCafes.map((cafe) => {
-          return (
-            <li key={cafe.id} className="single-cafe">
-              <span className="cafe-details">{cafe.name}</span>
-              <span>
-                <button onClick={() => handleClick(cafe)} className="btn">
-                  Go to cafe
-                </button>
-              </span>
-            </li>
-          );
-        })
-      ) : (
-        <h1 className="no-results">No results found!</h1>
-      )}
-    </ul>
+    <div className="container">
+      <ul className="results">
+        {filteredCafes.length > 0 ? (
+          filteredCafes.map((cafe) => {
+            return (
+              <li key={cafe.id} className="single-cafe">
+                <span className="cafe-details">{cafe.name}</span>
+                <span>
+                  <button onClick={() => handleClick(cafe)} className="btn">
+                    Go to cafe
+                  </button>
+                </span>
+              </li>
+            );
+          })
+        ) : (
+          <h1 className="no-results">No results found!</h1>
+        )}
+      </ul>
+    </div>
   );
 };
