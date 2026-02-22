@@ -5,12 +5,28 @@ import L from "leaflet";
 import "leaflet/dist/leaflet.css";
 import data from "../data/data.json";
 import { ResultsList } from "./ResultsList";
+import icon from "leaflet/dist/images/marker-icon.png";
+import iconShadow from "leaflet/dist/images/marker-shadow.png";
 
 export function LocationMarker({ radius }) {
   const [center, setCenter] = useState(null);
   const [error, setError] = useState(null);
   const [filteredCafes, setFilteredCafes] = useState();
   const map = useMap();
+
+  // Manually set the default icon options
+  let DefaultIcon = L.icon({
+    iconUrl: icon,
+    shadowUrl: iconShadow,
+    iconSize: [25, 41],
+    iconAnchor: [12, 41],
+    popupAnchor: [1, -34],
+    shadowSize: [41, 41],
+  });
+
+  // Override Leaflet's default icon
+  // eslint-disable-next-line react-hooks/immutability
+  L.Marker.prototype.options.icon = DefaultIcon;
 
   useEffect(() => {
     if (!navigator.geolocation) {
