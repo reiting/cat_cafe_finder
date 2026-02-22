@@ -53,3 +53,5 @@ Add user accounts
 *Allow user to review cafes
 *Allow user to upload pictures of cats and cafes
 *Allow cafe owners to verify pictures of cats and cafes before upload
+
+make results list is own element that renders beside the map tile instead of on top of it

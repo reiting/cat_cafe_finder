@@ -1,4 +1,5 @@
-import React, { useState } from "react";
+/* eslint-disable react-hooks/set-state-in-effect */
+import React, { useState, useEffect } from "react";
 import "./App.css";
 import "leaflet/dist/leaflet.css";
 import { MapContainer, TileLayer } from "react-leaflet";
@@ -6,19 +7,25 @@ import { LocationMarker } from "./components/MapTile";
 
 function App() {
   const [permission, setPermission] = useState(false);
-  const [radius, setRadius] = useState(500);
+  const [radius, setRadius] = useState(20);
+  const [value, setValue] = useState(20);
+
+  const milesToMeters = (miles) => miles * 1609.34; // The conversion factor
 
   const handleClick = () => {
     setPermission(true);
   };
 
+  useEffect(() => {
+    const meters = milesToMeters(value);
+    setRadius(meters);
+  }, [value]);
+
   const handleDropDownChange = (e) => {
-    setRadius(e.target.value);
+    setValue(e.target.value);
   };
 
   const defaultCenter = [39.5, -98.35];
-
-  const milesToMeters = (miles) => miles * 1609.34; // The conversion factor
 
   const distancesInMiles = [20, 30, 40, 50, 60, 70, 80, 90, 100];
 
