@@ -55,3 +55,24 @@ Add user accounts
 *Allow cafe owners to verify pictures of cats and cafes before upload
 
 make results list is own element that renders beside the map tile instead of on top of it
+
+Add permission to use location:
+
+- Alert box
+  - Check for alert box api in react
+  - If not, create one
+  - disable the rest of the page until they answer
+- "Cat cafe finder is asking to know your location. Yes/no."
+  - Put the text in the box.
+  - Make 'yes' and 'no' run the permissions state
+  - Remove permissions from the page
+- If they say no, show a list of all cat cafes in North America.
+  - Go to map and show entire list of cat cafes
+  - No radius
+  - Make sure they can interact with the list like normal
+  - Make sure there are map markers for all results
+
+* If they say yes, run as normal.
+  - This is the same as usual
+
+  Scroll results
